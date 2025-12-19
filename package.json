@@ -3,7 +3,7 @@
   "displayName": "Jellybeans-vim",
   "description": "A Jellybeans-inspired dark theme with vim-style status bar",
   "version": "0.0.1",
-  "publisher": "custom",
+  "publisher": "marcwoozie",
   "engines": {
     "vscode": "^1.74.0"
   },
