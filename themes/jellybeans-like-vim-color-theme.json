@@ -40,6 +40,7 @@
     "list.focusBackground": "#333333",
     "statusBar.background": "#1c1c1c",
     "statusBar.foreground": "#5af1a8",
+    "statusBar.border": "#2a2a2a",
     "statusBar.noFolderBackground": "#333333",
     "statusBar.debuggingBackground": "#cf6a4c",
     "statusBar.debuggingForeground": "#ffffff",
